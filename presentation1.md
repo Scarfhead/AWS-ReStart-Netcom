@@ -1,9 +1,9 @@
 # Build Automation
-Automatically Compiling Code after changes are made.
+Automatically Compiling Code after changes are made. i.e. - Gradle, Jenkins, Ansible, etc.
 
 **Benefits of Build Automation**
 1. Used within Continuoss Integration to ensure code works.
-1. Ensures code is readable for whoever works on it ater.
+1. Ensures code is readable for whoever works on it after.
 1. Allows faster feedback, improving productivity.
 1. Assists in faster working within QA Team, finding errors faster & mitigating them.
 
@@ -13,7 +13,7 @@ Automatically Compiling Code after changes are made.
 1. System costs can be quite high. 
 
 ## Test Automation
-Logical Tests automatically test Logic after changes to ensure it works.
+Logical Tests automatically test Logic after changes to ensure it works. i.e. - Selenium, Appiumm, Ranorex, etc.
 
 **Benefits of Test Automation**
 1. Deploy products faster due to faster testing
@@ -24,7 +24,7 @@ Logical Tests automatically test Logic after changes to ensure it works.
 1. Take alot of effort to implement first time.
 1. Requires alot of maintenance.
 ## Deployment Automation
-Get Code to Usable Format for testing/use.
+Get Code to Usable Format for testing/use. i.e. - Ansible, Jenkins, Puppet, etc.
 
 **Benefits of Deployment Automation**
 1. Can be performed in seconds.

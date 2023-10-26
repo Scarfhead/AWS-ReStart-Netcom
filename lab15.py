@@ -10,3 +10,7 @@ commandArguement="-a"
 print(f'Gathering system information with command: {command} {commandArguement}')
 subprocess.run([command,commandArguement])
 
+command="ps"
+commandArguement="-x"
+print(f'Gathering system information with command: {command} {commandArguement}')
+subprocess.run([command,commandArguement])
