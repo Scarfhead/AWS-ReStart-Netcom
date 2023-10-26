@@ -1,0 +1,29 @@
+# Automation 
+**Provisioning** - creating script to deploy & configure resources automatically
+**Single task** - the process of automating a specific, discrete task or operation
+**HCL Configuration Language** - used to automate the configuration and deployment of infrastructure components. It's commonly employed with tools like Terraform, which use HCL to define infrastructure resources
+**User Defined Function** - a way to automate and streamline repetitive or complex tasks within a program or script by encapsulating a set of instructions into a reusable function.
+**Eliminate Repetition** - can involve creating scripts or using software to handle tasks that would otherwise be time-consuming and prone to errors if done manually.
+**Terraform** - used to automate the process of provisioning and managing infrastructure resources. You define the desired state of your infrastructure using HashiCorp Configuration Language (HCL), and Terraform automates the process of creating, updating, or deleting resources to match that desired state.
+**Version Control** - automate the tracking, recording, and management of changes to files and documents.
+**Unit tests** - automated scripts or pieces of code that exercise specific functions, methods, or classes to verify that they produce the expected output or behavior.
+**Decrease IT costs** - When applied to IT operations, automation aims to streamline and simplify routine and repetitive tasks, which can lead to reduced IT costs.
+**Thread Creation** - Each thread represents a separate flow of execution, allowing the program to perform multiple tasks simultaneously or in parallel. This automation of concurrency helps improve performance and efficiency.
+
+# Orchestration
+**Process Coordination** - a key aspect of orchestration, as it focuses on ensuring the various elements of the workflow come together as needed.
+**Decrease friction among teams** - In the context of team collaboration, orchestration focuses on facilitating the coordination and interaction among teams, ensuring that they work together seamlessly, and achieving common objectives.
+
+
+#Both
+
+**Management** - automation involves streamlining and simplifying routine and repetitive tasks. Orchestration is about managing the interactions and dependencies between various automated processes.
+**Python script** - can be used for automation when it is designed to perform a specific, well-defined task or a series of tasks with minimal human intervention. Python script can be used for orchestration when it is designed to coordinate and manage multiple tasks or processes to achieve a larger goal.
+**Code** - can be used for automation when it is designed to perform specific, repetitive tasks or processes with minimal human intervention. Code for orchestration is about managing the interactions and dependencies between various automated processes.
+**Infrastructure** - Infrastructure automation refers to the practice of using technology, scripts, and tools to automate the provisioning, configuration, management, and maintenance of infrastructure components. Infrastructure orchestration is a higher-level process that involves coordinating and managing various automated tasks and infrastructure components to achieve a more comprehensive goal.
+**Increased reliability** - By automating tasks, you can reduce the potential for human errors, enhance repeatability, and improve consistency, all of which contribute to increased reliability. While orchestration itself doesn't inherently increase reliability, it helps ensure that different automated components or systems work together seamlessly.
+**Increased productivity** - leads to increased productivity by saving time, reducing errors, and allowing employees to focus on more valuable tasks. Orchestrating various automated tasks can lead to higher-level productivity improvements beyond what individual automation can achieve.
+**PyCharm** - PyCharm can be used in the development of automation scripts and applications. While PyCharm doesn't serve as an orchestration tool, Python code written in PyCharm can be part of a larger orchestration process.
+**Workflow** - involves using technology, tools, or software to automate a series of defined tasks or steps in a specific process or business workflow. Workflow orchestration, on the other hand, is about managing and coordinating complex, end-to-end workflows
+
+by Jaden & Hamza
